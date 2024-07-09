@@ -19,11 +19,11 @@ Tic Tac Toe is a two-player game where each player takes turns marking a space i
 
 ### Game Conditions
 
-- 3x3 grid.
-- Players use 'X' or 'O' marks.
-- Three marks in a line to win.
-- A draw if all squares are filled without a win.
-- Option to restart the game.
+[] 3x3 grid.
+[] Players use 'X' or 'O' marks.
+[] Three marks in a line to win.
+[] A draw if all squares are filled without a win.
+[] Option to restart the game.
 
 ## Development Approach
 
